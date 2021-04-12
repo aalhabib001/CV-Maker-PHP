@@ -1,0 +1,49 @@
+.container{
+    width: 50%;
+}
+.Third-Section .container{
+    width: 100%;
+}
+
+.Second-Section{
+    background-color: #EDE9E6;
+}
+
+.Forth-Section{
+    background-color: #EDE9E6;
+}
+
+.work-img{ 
+    max-width: 70%;
+    align-items: center;
+}
+
+hr.dashed {
+    border-top: 3px dashed #bbb;
+  }
+
+.img-mar1{
+    margin: 48px;
+}
+
+.img-mar2{
+    margin: 36px;
+}
+
+.eduction {
+    height: 20%;
+}
+
+.col-container {
+    display: table;
+    width: 100%;
+  }
+
+/* .col-hi {
+    display: table-cell;
+    padding: 16px;
+  } */
+
+  .skills {
+      font-weight: 500;
+  }
